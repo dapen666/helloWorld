@@ -1,0 +1,36 @@
+负责项目主框架架构，用storyboard搭建整个UI框架以及自定制一些复杂控件和组件化一些通用模块和主页面投资理财模块逻辑实现。包括参与需求分析讨论、功能实现评估、开发时间评估、代码实现、性能优化等
+
+
+
+
+房天下理财操作系统是纽交所上市公司搜房网倾力打造的互联网房地产金融服务操作平台，房天下理财为用户打造了一个安全诚信专业高效的房地产信贷投融资交易平台
+
+
+
+
+房天下理财操作系统是纽交所上市公司搜房网倾力打造的互联网房地产金融服务操作平台，房天下理财为用户打造了一个安全诚信专业高效的房地产信贷投融资交易平台
+
+
+
+能独立开发、部署、发布IOS APP，有App Store上架作品或相关作品者优先
+
+有扎实的Object C/C/C++语言基础，精通iPhone SDK及相关开发工具；有良好的编程习惯
+
+深入理解Objective-C Runtime、RunLoop、Cocoa Touch，熟悉APNS、SQLite/Realm、Auto Layout、Socket;
+
+精通常用软件架构模式，熟悉各种算法与数据结构，多线程，网络编程等
+
+对app提高用户体验、性能调优、防崩溃、节省流量等的方法有深入了解
+
+具备良好的沟通能力和优秀的团队协作能力,能承担高负荷工作压力
+
+
+/Users/hanwenbo/Library/Preferences/Macromedia/Flash Player/#SharedObjects/2NSCMRQ2
+
+
+
+
+ffmpeg -re -i /Users/hanwenbo/Desktop/login_video.mp4 -vcodec libx264 -acodec aac -strict -2 -f flv rtmp://localhost:1935/rtmplive/room
+
+
+192.168.3.107
