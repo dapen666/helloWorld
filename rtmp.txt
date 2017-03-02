@@ -36,3 +36,6 @@ ffmpeg -re -i /Users/hanwenbo/Desktop/login_video.mp4 -vcodec libx264 -acodec aa
 192.168.3.107
 
 每次连一个WiFi ip地址都会改变
+
+
+git remote add origin git@github.com:dapen666/helloWorld.git
